@@ -8,7 +8,7 @@ A few examples of concepts I have learned through this class is how important pl
 
 # Projects:
 
-The projects from my Technical Writing class I have included in this portfolio are:
+The projects included in my portfolio are:
 
  - Pentesting Life Cycle Marketing Brochure
  - MultiFactor Authentication Through Yubikey Proposal
@@ -19,7 +19,7 @@ The projects from my Technical Writing class I have included in this portfolio a
  - Cross Sums Puzzle Solver
  - Cellular Automate Simulator
  - The Equalizer
- - 
+ 
 During my enrollment into the Technical Writing class, we were tasked with many different discussion posts, homework, manuals, and proposals. The following four projects, is what I consider to show the best of myself when it comes to technical writing, and how I have changed from the beginning to the end of the semester as a writer. The Pentesting Life Cycle Brochure taught me an important aspect on how to define a technical term to the context of a specific rhetorical situation. This was done in the format of a marketing brochure, aimed at making clients or potential clients aware of the different security risks they might encounter, and the steps to prevent or mitigate them.
 
 The MultiFactor Authentication Through Yubikey Proposal was a Request for Proposal (RFP) to the National Institute for Research (NIR). This assignment taught me how to apply for grant money in the future, whether it was for research or at a company. The proposal I created was about MultiFactor Authentication using Yubikey and performing a study on the usability and acceptability of multifactor authentication.
